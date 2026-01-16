@@ -35,7 +35,7 @@ My experience spans:
 ## 🧠 Technical Skills  
 **Languages:** Python, SQL, Bash  
 
-**Frameworks / Tools:** PySpark, Databricks, Pandas, Git  
+**Frameworks / Tools:** PySpark, Databricks, Snowflake, Informatica IDMC, Pandas, Git  
 
 **Cloud & Infra:**  
 - **AWS** (S3, IAM, EC2 basics, Glue fundamentals)  
